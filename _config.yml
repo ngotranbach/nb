@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: Học để tạo giá trị
+description: Học thông minh, tạo giá trị
 theme: minima
 siteurl: http://baphong.com/
 permalink: pretty
